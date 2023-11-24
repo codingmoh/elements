@@ -89,6 +89,6 @@ This course offers a comprehensive curriculum that begins with data visualizatio
 ---
 
 ## Additional Notes
-- Each assignment is due one week after the respective unit to encourage timely application of the concepts.
+- OENe one week after the  unit to encourage timely application of the concepts.
 - Deliverables will be graded on functionality, code quality, documentation, and depth of understanding demonstrated.
-- Resources and materials must be current and reflect the latest industry standards.
+....
